@@ -1,0 +1,39 @@
+.error-alert {
+  background-color: #ffe6e6; 
+  color: #a10000;           
+  border: 1px solid #a10000;
+  padding: 16px;
+  border-radius: 6px;
+  margin: 12px 0;
+  font-family: Arial, sans-serif;
+}
+
+.error-alert h2 {
+  margin: 0 0 8px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.error-alert pre {
+  background: #fff0f0;
+  padding: 8px;
+  border-radius: 4px;
+  overflow-x: auto;
+  font-size: 14px;
+  margin: 8px 0;
+}
+
+.error-alert button {
+  margin-top: 10px;
+  padding: 8px 14px;
+  background: #a10000;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.error-alert button:hover {
+  background: #7a0000;
+}
