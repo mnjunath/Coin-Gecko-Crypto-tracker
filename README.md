@@ -7,7 +7,13 @@ This project demonstrates **React Hooks, Context API, API integration, and perfo
 
 ---
 
-## 🚀 Features
+## 🚀 Live Demo
+
+🔗 **Live Project:** [https://coingeckocryptotracker1055.netlify.app/](https://coingeckocryptotracker1055.netlify.app/)
+
+---
+
+## ✨ Features
 
 - 📊 **Live Crypto Market Data**
   - Fetches real-time cryptocurrency prices, market cap, volume, and percentage changes.
@@ -39,7 +45,7 @@ This project demonstrates **React Hooks, Context API, API integration, and perfo
 - **PostCSS + Autoprefixer** (CSS transformations)
 
 ### **State Management**
-- **React Hooks**:  
+- **React Hooks**
   - `useState` → manage local state  
   - `useEffect` → handle side effects (API calls)  
   - `useContext` → global state (theme, auth)
